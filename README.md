@@ -1,0 +1,2 @@
+# tugas-pertama-eeg
+code
